@@ -2630,10 +2630,15 @@
       "url": "https://th.linkedin.com/jobs/view/back-end-developer-go-and-nodejs-12m-contract-at-argyll-scott-4446717626",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 47,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Explicit Thai candidates only"
     },
     "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/Backend-Software-Engineer_JR103489-2": {
       "title": "Backend Software Engineer",
@@ -2641,10 +2646,15 @@
       "url": "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/Backend-Software-Engineer_JR103489-2?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "ae, au, br, cn, de, es, fr, gb, hu, id, jp, kr, my, nl, sa, th, us, vn",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 46,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://th.linkedin.com/jobs/view/binance-accelerator-program-frontend-engineer-com-at-binance-4429643554": {
       "title": "Binance Accelerator Program - Frontend Engineer (.COM)",
@@ -2652,10 +2662,15 @@
       "url": "https://th.linkedin.com/jobs/view/binance-accelerator-program-frontend-engineer-com-at-binance-4429643554",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 48,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok internship/accelerator; work-permit issues + wrong seniority"
     },
     "https://th.linkedin.com/jobs/view/binance-accelerator-program-frontend-engineer-for-current-students-at-binance-4407198436": {
       "title": "Binance Accelerator Program - Frontend Engineer (for current students)",
@@ -2663,10 +2678,15 @@
       "url": "https://th.linkedin.com/jobs/view/binance-accelerator-program-frontend-engineer-for-current-students-at-binance-4407198436",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 42,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Bilingual English/Mandarin required; student internship track"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/6528164": {
       "title": "Engineering Manager, Back End (Bangkok based, relocation provided)",
@@ -2674,10 +2694,15 @@
       "url": "https://job-boards.greenhouse.io/agoda/jobs/6528164?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Bangkok (Central World Office)",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 37,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
     },
     "https://et.linkedin.com/jobs/view/frontend-developer-at-walia-nexus-4445541547": {
       "title": "Frontend Developer",
@@ -2697,10 +2722,15 @@
       "url": "https://tr.linkedin.com/jobs/view/frontend-developer-at-gridstudio-4447124600",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Greater Istanbul",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 56,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Greater Istanbul listing — verify true remote worldwide"
     },
     "https://ro.linkedin.com/jobs/view/frontend-developer-react-at-codekeeper-4446304238": {
       "title": "Frontend Developer (React)",
@@ -2708,10 +2738,15 @@
       "url": "https://ro.linkedin.com/jobs/view/frontend-developer-react-at-codekeeper-4446304238",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Romania",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 58,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "PASS",
+      "rank_location_note": "Remote role; no citizenship gate found in posting"
     },
     "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-cube-4446432632": {
       "title": "Frontend Engineer - Agentic AI",
@@ -2719,10 +2754,15 @@
       "url": "https://de.linkedin.com/jobs/view/frontend-engineer-agentic-ai-at-cube-4446432632",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Berlin, Berlin, Germany",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 71,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Berlin-listed; company spans 19 countries — confirm remote-from-Thailand"
     },
     "https://uk.linkedin.com/jobs/view/full-stack-developer-at-plutus-media-4442536677": {
       "title": "Full Stack Developer",
@@ -2730,11 +2770,16 @@
       "url": "https://uk.linkedin.com/jobs/view/full-stack-developer-at-plutus-media-4442536677",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "United Kingdom",
       "geo_bucket": "remote",
-      "mass_posting": "posted identically across 2 locations"
+      "mass_posting": "posted identically across 2 locations",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "UK-listed full stack; verify remote-from-Thailand"
     },
     "https://www.linkedin.com/jobs/view/full-stack-developer-at-plutus-media-4442537643": {
       "title": "Full Stack Developer",
@@ -2755,10 +2800,15 @@
       "url": "https://uk.linkedin.com/jobs/view/full-stack-developer-at-storyterrace-4444888691",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "London, England, United Kingdom",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 70,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Must be based within GMT ±3; Bangkok is GMT+7"
     },
     "https://djinni.co/jobs/840483-full-stack-engineer-crypto/": {
       "title": "Full Stack Engineer (Crypto)",
@@ -2766,10 +2816,15 @@
       "url": "https://djinni.co/jobs/840483-full-stack-engineer-crypto/?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 59,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Ukrainian-language Djinni posting (UA market)"
     },
     "https://hh.ru/vacancy/135720737": {
       "title": "FullStack Developer (React/Node.js)",
@@ -2789,10 +2844,15 @@
       "url": "https://boldare.breezy.hr/p/2c4a989b9f9a01-fullstack-javascript-developer-react-node-js?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Polska",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 72,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Requires fluency in Polish (B2+) and hybrid Poland office rhythm"
     },
     "https://justjoin.it/job-offer/do-ok-life-changing-software-services-fullstack-developer-wroclaw-java": {
       "title": "Fullstack Developer",
@@ -2800,10 +2860,15 @@
       "url": "https://justjoin.it/job-offer/do-ok-life-changing-software-services-fullstack-developer-wroclaw-java?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Wrocław",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 63,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Polish justjoin B2B market (Wrocław); verify non-EU remote"
     },
     "https://himalayas.app/companies/archie-labs/jobs/fullstack-developer-react-node-js-remote": {
       "title": "Fullstack Developer (React + Node.js) — Remote",
@@ -2811,10 +2876,15 @@
       "url": "https://himalayas.app/companies/archie-labs/jobs/fullstack-developer-react-node-js-remote?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "United States",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 74,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Remote (Latam) only — not open worldwide from Thailand"
     },
     "https://hh.ru/vacancy/134269279": {
       "title": "Fullstack Developer (React/NodeJS)",
@@ -2834,10 +2904,15 @@
       "url": "https://himalayas.app/companies/order-group/jobs/fullstack-developer-tech-lead?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Poland",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 64,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Polish & English at least C1 required"
     },
     "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003430052-S": {
       "title": "Fullstack Developer (m/w/d) - TypeScript / Angular / REST",
@@ -2845,10 +2920,15 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003430052-S?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Rheine, Nordrhein-Westfalen, Deutschland",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 51,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "German-language DE posting (m/w/d); hybrid Rheine Germany"
     },
     "https://justjoin.it/job-offer/flyps-fullstack-engineer-typescript-and-react--poznan-javascript": {
       "title": "Fullstack Engineer (TypeScript and React)",
@@ -2856,10 +2936,15 @@
       "url": "https://justjoin.it/job-offer/flyps-fullstack-engineer-typescript-and-react--poznan-javascript?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Poznań",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 72,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "100% remote Polish B2B (PLN/h); verify if non-EU contractors accepted"
     },
     "https://jobs.smartrecruiters.com/Talan/744000138611199-fullstack-engineer-react-node-python-pwa-specialty-": {
       "title": "Fullstack Engineer - React & Node/Python (PWA Specialty)",
@@ -2867,10 +2952,15 @@
       "url": "https://jobs.smartrecruiters.com/Talan/744000138611199-fullstack-engineer-react-node-python-pwa-specialty-?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Bogotá, Bogota, co",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 55,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Remote Spain-TZ 4-month B2B (Colombia-listed); weak career fit"
     },
     "https://www.whatjobs.com/pub_api__cpl__2864214308__7065?geoID=32956": {
       "title": "Lead Frontend Engineer - Scalable Web Apps, Bangkok",
@@ -2878,10 +2968,15 @@
       "url": "https://www.whatjobs.com/pub_api__cpl__2864214308__7065?geoID=32956&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Il, United States",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 73,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Duplicate aggregator mirror of Agoda Greenhouse Lead Frontend — prefer Greenhouse URL"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/6161339": {
       "title": "Lead Software Engineer - Front End (Bangkok based, Relocation provided)",
@@ -2889,10 +2984,15 @@
       "url": "https://job-boards.greenhouse.io/agoda/jobs/6161339?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Bangkok, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 73,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok-based with relocation provided; visa sponsorship typically available"
     },
     "https://hh.ru/vacancy/135793094": {
       "title": "Middle+ / Senior Node.js Backend Developer (NestJS, Kafka)",
@@ -2912,10 +3012,15 @@
       "url": "https://th.linkedin.com/jobs/view/pioneer-talent-program-full-stack-engineer-front-end-oriented-at-binance-4443128036",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 53,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/7777498": {
       "title": "Principal Software Engineer, Back End (AI-powered Data Querying) (Bangkok based, Relocation provided)",
@@ -2923,10 +3028,15 @@
       "url": "https://job-boards.greenhouse.io/agoda/jobs/7777498?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Bangkok, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 38,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/7915377": {
       "title": "Principal Software Engineer, Back End (Bangkok based, Relocation provided)",
@@ -2934,10 +3044,15 @@
       "url": "https://job-boards.greenhouse.io/agoda/jobs/7915377?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Bangkok, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 38,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
     },
     "https://pe.linkedin.com/jobs/view/react-engineer-remote-work-ref%23298905-at-bairesdev-4446501433": {
       "title": "React Engineer - Remote Work | REF#298905",
@@ -2957,10 +3072,15 @@
       "url": "https://th.linkedin.com/jobs/view/react-engineer-senior-engineer-at-bangkok-bank-4446705776",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 46,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok Bank HQ Silom onsite; sponsorship unverified"
     },
     "https://www.linkedin.com/jobs/view/react-redux-frontend-developer-remote-at-govcio-4444295424": {
       "title": "React/Redux Frontend Developer (Remote)",
@@ -2968,10 +3088,15 @@
       "url": "https://www.linkedin.com/jobs/view/react-redux-frontend-developer-remote-at-govcio-4444295424",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "United States",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "US GovCIO — US work authorization expected"
     },
     "https://th.linkedin.com/jobs/view/senior-back-end-engineer-at-cj-more-4445906653": {
       "title": "Senior Back End Engineer",
@@ -2979,10 +3104,15 @@
       "url": "https://th.linkedin.com/jobs/view/senior-back-end-engineer-at-cj-more-4445906653",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bang Rak, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 71,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://justjoin.it/job-offer/spyrosoft-senior-backend-fullstack-developer-with-node-js-and-typescript-bialystok-other": {
       "title": "Senior Backend/Fullstack Developer with Node.js and TypeScript",
@@ -2990,10 +3120,15 @@
       "url": "https://justjoin.it/job-offer/spyrosoft-senior-backend-fullstack-developer-with-node-js-and-typescript-bialystok-other?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Białystok",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 70,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "German language required"
     },
     "https://www.linkedin.com/jobs/view/senior-front-end-developer-remote-at-govcio-4438106990": {
       "title": "Senior Front End Developer (Remote)",
@@ -3001,10 +3136,15 @@
       "url": "https://www.linkedin.com/jobs/view/senior-front-end-developer-remote-at-govcio-4438106990",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "United States",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 61,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "US GovCIO remote — typically US work auth"
     },
     "https://th.linkedin.com/jobs/view/senior-frontend-engineer-earn-at-binance-4330742910": {
       "title": "Senior Frontend Engineer - Earn",
@@ -3012,10 +3152,15 @@
       "url": "https://th.linkedin.com/jobs/view/senior-frontend-engineer-earn-at-binance-4330742910",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 75,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok-listed; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://djinni.co/jobs/840364-senior-full-stack-engineer-typescript-react-n/": {
       "title": "Senior Full Stack Engineer (TypeScript / React / Node.js)",
@@ -3023,7 +3168,7 @@
       "url": "https://djinni.co/jobs/840364-senior-full-stack-engineer-typescript-react-n/?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
       "location": "UA",
       "geo_bucket": "remote"
@@ -3034,10 +3179,15 @@
       "url": "https://www.whatjobs.com/pub_api__cpl__2694862551__7065?geoID=3&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Florida, United States",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 78,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "US-listed remote ($125–200k); verify worldwide eligibility before applying"
     },
     "https://www.whatjobs.com/pub_api__cpl__2905094098__7065?geoID=35": {
       "title": "Senior Full-Stack Engineer — Remote (React/Node)",
@@ -3045,10 +3195,15 @@
       "url": "https://www.whatjobs.com/pub_api__cpl__2905094098__7065?geoID=35&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "New York, United States",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 76,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Remote based in Eastern Time with NYC HQ — US-timezone/market gate"
     },
     "https://jobstash.xyz/jobs/hNyTql/details": {
       "title": "Senior Fullstack Engineer",
@@ -3056,10 +3211,15 @@
       "url": "https://jobstash.xyz/jobs/hNyTql/details?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 74,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "PASS",
+      "rank_location_note": "Fully remote; no citizenship gate in posting text"
     },
     "https://himalayas.app/companies/radity/jobs/senior-fullstack-engineer-typescript": {
       "title": "Senior Fullstack Engineer (TypeScript)",
@@ -3067,10 +3227,15 @@
       "url": "https://himalayas.app/companies/radity/jobs/senior-fullstack-engineer-typescript?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "United States",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 83,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "PASS",
+      "rank_location_note": "Remote-first; posting says work from anywhere"
     },
     "https://th.linkedin.com/jobs/view/senior-software-engineer-backend-node-js-at-makro-pro-4282234090": {
       "title": "Senior Software Engineer - Backend (Node.js)",
@@ -3078,10 +3243,15 @@
       "url": "https://th.linkedin.com/jobs/view/senior-software-engineer-backend-node-js-at-makro-pro-4282234090",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bang Kapi district, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 69,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok hybrid; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/6883659": {
       "title": "Software Developer, Back End (Bangkok-based, 6-month Contract)",
@@ -3089,10 +3259,15 @@
       "url": "https://job-boards.greenhouse.io/agoda/jobs/6883659?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Bangkok",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 47,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://br.linkedin.com/jobs/view/software-engineer-ii-front-end-at-arco-educa%C3%A7%C3%A3o-4446159229": {
       "title": "Software Engineer II - Front End",
@@ -3100,10 +3275,15 @@
       "url": "https://br.linkedin.com/jobs/view/software-engineer-ii-front-end-at-arco-educa%C3%A7%C3%A3o-4446159229",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Brazil",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 64,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "Brazil-local employer"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-product-frontend-leaning-at-assembled-4434683843": {
       "title": "Software Engineer, Product (Frontend-leaning)",
@@ -3111,10 +3291,15 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-product-frontend-leaning-at-assembled-4434683843",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "United States",
-      "geo_bucket": "remote"
+      "geo_bucket": "remote",
+      "rank_score": 68,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FAIL",
+      "rank_location_note": "UK right to work required"
     },
     "https://himalayas.app/companies/global-rabbits/jobs/sr-fullstack-react-node-js": {
       "title": "Sr FullStack (React + Node.js)",
@@ -3134,10 +3319,15 @@
       "url": "https://job-boards.greenhouse.io/agoda/jobs/7880990?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "Bangkok, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 47,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
     },
     "https://th.linkedin.com/jobs/view/t-t-consultant-innovation-cloud-development-center-full-stack-developer-th-at-deloitte-4406201195": {
       "title": "T&T Consultant - Innovation Cloud Development Center (Full-stack Developer) - TH",
@@ -3157,10 +3347,15 @@
       "url": "https://th.linkedin.com/jobs/view/tech-lead-experience-front-end-at-makro-pro-4413694783",
       "first_seen": "2026-08-01",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Nawamin, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 66,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok hybrid; sponsorship unverified"
     },
     "https://jobs.lever.co/ciandt/051c6320-7a50-4c26-a23c-617baf518eb8": {
       "title": "[Job-30845] Senior Fullstack Developer(React / Node), Brazil",
@@ -3204,10 +3399,15 @@
       "url": "https://th.linkedin.com/jobs/view/front-end-developer-golang-based-platform-at-gsb-it-management-co-ltd-4443491693",
       "first_seen": "2026-08-01",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 54,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://hh.ru/vacancy/135761934": {
       "title": "Fullstack QA Engineer (Playwright + TypeScript)",
@@ -3251,10 +3451,15 @@
       "url": "https://th.linkedin.com/jobs/view/software-engineer-at-arise-by-infinitas-4443471438",
       "first_seen": "2026-08-01",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "Bangkok, Bangkok City, Thailand",
-      "geo_bucket": "thailand"
+      "geo_bucket": "thailand",
+      "rank_score": 46,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "Bangkok onsite/hybrid; foreign national needs work-permit sponsorship (unverified)"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-allstate-4444851820": {
       "title": "Software Engineer (All Levels)",
@@ -3262,11 +3467,16 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-allstate-4444851820",
       "first_seen": "2026-08-01",
       "fit": "medium",
-      "status": "skipped",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "United States",
       "geo_bucket": "remote",
-      "skip_reason": "likely US-only large insurer (verify at rank would FAIL)"
+      "skip_reason": "likely US-only large insurer (verify at rank would FAIL)",
+      "rank_score": 58,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-01",
+      "rank_location": "FLAG",
+      "rank_location_note": "US-listed remote — verify worldwide eligibility & work auth"
     }
   }
 }
