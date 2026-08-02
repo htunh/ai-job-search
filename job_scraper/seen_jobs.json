@@ -277,7 +277,7 @@
       "rank_location": "FLAG"
     },
     "https://himalayas.app/companies/jtl-software/jobs/senior-fullstack-engineer-developer-platform-f-m-d": {
-      "title": "Senior Fullstack Engineer – Developer Platform (f/m/d)",
+      "title": "Senior Fullstack Engineer \u2013 Developer Platform (f/m/d)",
       "company": "JTL-Software",
       "url": "https://himalayas.app/companies/jtl-software/jobs/senior-fullstack-engineer-developer-platform-f-m-d?utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -334,7 +334,7 @@
       "skip_reason": "not in top priority batch this run"
     },
     "https://himalayas.app/companies/hargreaves-lansdown/jobs/software-engineer-full-stack-engineer-node-js-graphql": {
-      "title": "Software Engineer – Full Stack Engineer (Node.js / GraphQL)",
+      "title": "Software Engineer \u2013 Full Stack Engineer (Node.js / GraphQL)",
       "company": "Hargreaves Lansdown",
       "url": "https://himalayas.app/companies/hargreaves-lansdown/jobs/software-engineer-full-stack-engineer-node-js-graphql?utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -427,7 +427,7 @@
       "skip_reason": "below ranking priority cutoff this run"
     },
     "https://career.habr.com/vacancies/1000167699": {
-      "title": "Backend-инженер (Node.js / TypeScript)",
+      "title": "Backend-\u0438\u043d\u0436\u0435\u043d\u0435\u0440 (Node.js / TypeScript)",
       "company": "DubaiHouse",
       "url": "https://career.habr.com/vacancies/1000167699?utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -463,7 +463,7 @@
       "skip_reason": "non-English local market title"
     },
     "https://jobs.lever.co/jobgether/5739833f-6f91-499c-9a1f-4dd4d9da5a19": {
-      "title": "Desenvolvedor(a) Full Stack React e C#/.NET Sênior",
+      "title": "Desenvolvedor(a) Full Stack React e C#/.NET S\u00eanior",
       "company": "jobgether",
       "url": "https://jobs.lever.co/jobgether/5739833f-6f91-499c-9a1f-4dd4d9da5a19?utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -475,14 +475,14 @@
       "skip_reason": "non-English local market title"
     },
     "https://br.linkedin.com/jobs/view/desenvolvedor-a-typescript-%C2%B7-fullstack-at-kikos-fitness-oficial-4444504865": {
-      "title": "Desenvolvedor(a) TypeScript · Fullstack",
+      "title": "Desenvolvedor(a) TypeScript \u00b7 Fullstack",
       "company": "Kikos Fitness Oficial",
       "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-typescript-%C2%B7-fullstack-at-kikos-fitness-oficial-4444504865",
       "first_seen": "2026-07-31",
       "fit": "high",
       "status": "skipped",
       "portal": "linkedin-search",
-      "location": "São Paulo, São Paulo, Brazil",
+      "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
       "geo_bucket": "remote",
       "skip_reason": "non-English local market title"
     },
@@ -596,7 +596,7 @@
     },
     "https://himalayas.app/companies/zoftify-travel-software-development/jobs/full-stack-developer-react-node-js": {
       "title": "Full Stack Developer (React + Node.js)",
-      "company": "Zoftify — Travel Software Development",
+      "company": "Zoftify \u2014 Travel Software Development",
       "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/full-stack-developer-react-node-js?utm_source=freehire.me",
       "first_seen": "2026-07-31",
       "fit": "high",
@@ -608,7 +608,7 @@
     },
     "https://djinni.co/jobs/839285-full-stack-developer-react-next-js-python-fas/": {
       "title": "Full Stack Developer (React / Next.js + Python FastAPI)",
-      "company": "Торговля.biz",
+      "company": "\u0422\u043e\u0440\u0433\u043e\u0432\u043b\u044f.biz",
       "url": "https://djinni.co/jobs/839285-full-stack-developer-react-next-js-python-fas/?utm_source=freehire.me",
       "first_seen": "2026-07-31",
       "fit": "high",
@@ -770,7 +770,7 @@
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Ciudad de México, CDMX",
+      "location": "Ciudad de M\u00e9xico, CDMX",
       "geo_bucket": "remote",
       "skip_reason": "below ranking priority cutoff this run"
     },
@@ -782,7 +782,7 @@
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Kraków",
+      "location": "Krak\u00f3w",
       "geo_bucket": "remote",
       "skip_reason": "below ranking priority cutoff this run"
     },
@@ -905,7 +905,7 @@
       "fit": "high",
       "status": "ranked",
       "portal": "freehire-search",
-      "location": "Wrocław",
+      "location": "Wroc\u0142aw",
       "geo_bucket": "remote",
       "rank_score": 61,
       "rank_verdict": "Good Fit",
@@ -926,7 +926,7 @@
     },
     "https://djinni.co/jobs/836072-middle-full-stack-developer-cctv/": {
       "title": "Middle+ Full-Stack Developer (CCTV)",
-      "company": "Торговля.biz",
+      "company": "\u0422\u043e\u0440\u0433\u043e\u0432\u043b\u044f.biz",
       "url": "https://djinni.co/jobs/836072-middle-full-stack-developer-cctv/?utm_source=freehire.me",
       "first_seen": "2026-07-31",
       "fit": "high",
@@ -1000,7 +1000,7 @@
       "rank_location": "FAIL"
     },
     "https://www.whatjobs.com/pub_api__cpl__2912097496__7065": {
-      "title": "Remote Senior Backend Engineer — Node.js/TypeScript",
+      "title": "Remote Senior Backend Engineer \u2014 Node.js/TypeScript",
       "company": "Makai Labs",
       "url": "https://www.whatjobs.com/pub_api__cpl__2912097496__7065?geoID=32460&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -1042,7 +1042,7 @@
       "rank_location": "FAIL"
     },
     "https://nofluffjobs.com/job/senior-ai-native-software-engineer-full-stack-react-next-js-node-js-the-good-code-remote": {
-      "title": "Senior AI-Native Software Engineer – Full Stack (React, Next.js, Node.js)",
+      "title": "Senior AI-Native Software Engineer \u2013 Full Stack (React, Next.js, Node.js)",
       "company": "the.good.code;",
       "url": "https://nofluffjobs.com/job/senior-ai-native-software-engineer-full-stack-react-next-js-node-js-the-good-code-remote?utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -1217,7 +1217,7 @@
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Chennai, Tamil Nādu",
+      "location": "Chennai, Tamil N\u0101du",
       "geo_bucket": "remote",
       "skip_reason": "below ranking priority cutoff this run"
     },
@@ -1330,7 +1330,7 @@
       "skip_reason": "below ranking priority cutoff this run"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/6603735": {
-      "title": "Backend Lead Software Engineer (L5) — Bangkok Relocation Provided",
+      "title": "Backend Lead Software Engineer (L5) \u2014 Bangkok Relocation Provided",
       "company": "Agoda",
       "url": "https://job-boards.greenhouse.io/agoda/jobs/6603735?utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -1378,7 +1378,7 @@
       "skip_reason": "below ranking priority cutoff this run"
     },
     "https://th.linkedin.com/jobs/view/principal-software-engineer-%E2%80%93-backend-at-avensys-consulting-4446541767": {
-      "title": "Principal Software Engineer – Backend",
+      "title": "Principal Software Engineer \u2013 Backend",
       "company": "Avensys Consulting",
       "url": "https://th.linkedin.com/jobs/view/principal-software-engineer-%E2%80%93-backend-at-avensys-consulting-4446541767",
       "first_seen": "2026-07-31",
@@ -1582,7 +1582,7 @@
       "skip_reason": "below ranking priority cutoff this run"
     },
     "https://powertofly.com/jobs/detail/2569585": {
-      "title": "Technical Lead – Java Backend",
+      "title": "Technical Lead \u2013 Java Backend",
       "company": "SoftwareOne",
       "url": "https://powertofly.com/jobs/detail/2569585?utm_source=freehire.me",
       "first_seen": "2026-07-31",
@@ -1613,7 +1613,7 @@
       "fit": "medium",
       "status": "skipped",
       "portal": "linkedin-search",
-      "location": "Türkiye",
+      "location": "T\u00fcrkiye",
       "geo_bucket": "remote",
       "skip_reason": "below ranking priority cutoff this run"
     },
@@ -1894,7 +1894,7 @@
     },
     "https://br.linkedin.com/jobs/view/banco-de-talentos-backend-nodejs-at-arco-educa%C3%A7%C3%A3o-4270628267": {
       "title": "Banco de Talentos: Backend NodeJs.",
-      "company": "Arco Educação",
+      "company": "Arco Educa\u00e7\u00e3o",
       "url": "https://br.linkedin.com/jobs/view/banco-de-talentos-backend-nodejs-at-arco-educa%C3%A7%C3%A3o-4270628267",
       "first_seen": "2026-08-01",
       "fit": "high",
@@ -1905,7 +1905,7 @@
       "skip_reason": "non-English listing / local-language market"
     },
     "https://www.infojobs.net/madrid/consultor-node-react.-ingles/of-i7f3ac69cf44665856f0696785d1582": {
-      "title": "Consultor/a Node/React. Inglés",
+      "title": "Consultor/a Node/React. Ingl\u00e9s",
       "company": "GRUPO NS",
       "url": "https://www.infojobs.net/madrid/consultor-node-react.-ingles/of-i7f3ac69cf44665856f0696785d1582?utm_source=freehire.me",
       "first_seen": "2026-08-01",
@@ -1953,7 +1953,7 @@
       "skip_reason": "mass-post duplicate of https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4445164557"
     },
     "https://career.habr.com/vacancies/1000145180": {
-      "title": "Fullstack JavaScript разработчик",
+      "title": "Fullstack JavaScript \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
       "company": "MakeDifference",
       "url": "https://career.habr.com/vacancies/1000145180?utm_source=freehire.me",
       "first_seen": "2026-08-01",
@@ -1962,47 +1962,47 @@
       "portal": "freehire-search",
       "location": "",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://hh.ru/vacancy/135546752": {
-      "title": "Fullstack разработчик (React + Node.js)",
-      "company": "Клиентские Решения",
+      "title": "Fullstack \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (React + Node.js)",
+      "company": "\u041a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0438\u0435 \u0420\u0435\u0448\u0435\u043d\u0438\u044f",
       "url": "https://hh.ru/vacancy/135546752?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Минск",
+      "location": "\u041c\u0438\u043d\u0441\u043a",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://hh.ru/vacancy/135609063": {
-      "title": "Fullstack-инженер (CRM/CDP-платформа, TypeScript, React, Node.js)",
-      "company": "Савельев Георгий Анатольевич",
+      "title": "Fullstack-\u0438\u043d\u0436\u0435\u043d\u0435\u0440 (CRM/CDP-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430, TypeScript, React, Node.js)",
+      "company": "\u0421\u0430\u0432\u0435\u043b\u044c\u0435\u0432 \u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447",
       "url": "https://hh.ru/vacancy/135609063?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://hh.ru/vacancy/135719846": {
-      "title": "Fullstack-разработчик",
-      "company": "ТАРГЕТ АДС",
+      "title": "Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "company": "\u0422\u0410\u0420\u0413\u0415\u0422 \u0410\u0414\u0421",
       "url": "https://hh.ru/vacancy/135719846?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://career.habr.com/vacancies/1000167746": {
-      "title": "Fullstack-разработчик",
-      "company": "МТС Web Services",
+      "title": "Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "company": "\u041c\u0422\u0421 Web Services",
       "url": "https://career.habr.com/vacancies/1000167746?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
@@ -2010,7 +2010,7 @@
       "portal": "freehire-search",
       "location": "",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://uk.linkedin.com/jobs/view/internship-frontend-developer-at-olive-tree-consulting-group-4443823274": {
       "title": "Internship - Frontend Developer",
@@ -2049,28 +2049,28 @@
       "skip_reason": "mass-post duplicate of https://ae.linkedin.com/jobs/view/junior-front-end-developer-remote-at-pulsemedianl-4443088764"
     },
     "https://hh.ru/vacancy/135009828": {
-      "title": "Lead/Senior fullstack разработчик (React+Node.js)",
-      "company": "Р-Софт",
+      "title": "Lead/Senior fullstack \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (React+Node.js)",
+      "company": "\u0420-\u0421\u043e\u0444\u0442",
       "url": "https://hh.ru/vacancy/135009828?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://hh.ru/vacancy/135441779": {
-      "title": "Middle/Senior Fullstack-разработчик (TypeScript) — платформа AI-агентов",
+      "title": "Middle/Senior Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (TypeScript) \u2014 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432",
       "company": "MolecularMeal",
       "url": "https://hh.ru/vacancy/135441779?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-backend-at-educbank-4445751335": {
       "title": "Pessoa Desenvolvedora Backend",
@@ -2109,40 +2109,40 @@
       "skip_reason": "mass-post duplicate of https://ae.linkedin.com/jobs/view/remote-junior-front-end-developer-role-at-pulsemedianl-4445395130"
     },
     "https://hh.ru/vacancy/134829420": {
-      "title": "Senior Fullstack-разработчик (TypeScript)",
+      "title": "Senior Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (TypeScript)",
       "company": "Prometix",
       "url": "https://hh.ru/vacancy/134829420?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://hh.ru/vacancy/135661081": {
-      "title": "Senior Fullstack-разработчик React / Node.js в команду Enterprise",
+      "title": "Senior Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a React / Node.js \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 Enterprise",
       "company": "Kaiten",
       "url": "https://hh.ru/vacancy/135661081?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://hh.ru/vacancy/135526851": {
-      "title": "TypeScript / AI / Fullstack разработчик",
-      "company": "Центр Локализации Кириллица",
+      "title": "TypeScript / AI / Fullstack \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "company": "\u0426\u0435\u043d\u0442\u0440 \u041b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u041a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430",
       "url": "https://hh.ru/vacancy/135526851?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Санкт-Петербург",
+      "location": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://in.linkedin.com/jobs/view/junior-javascript-developer-remote-work-ref%23296620-at-bairesdev-4435329894": {
       "title": "Junior JavaScript Developer - Remote work | REF#296620",
@@ -2181,16 +2181,16 @@
       "skip_reason": "junior/intern remote spam"
     },
     "https://hh.ru/vacancy/135745681": {
-      "title": "Senior Fullstack-разработчик (PHP/Laravel/Vue3/TypeScript)",
+      "title": "Senior Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (PHP/Laravel/Vue3/TypeScript)",
       "company": "Shark Ads",
       "url": "https://hh.ru/vacancy/135745681?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "medium",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
-      "skip_reason": "non-English (Cyrillic title) — Russian market"
+      "skip_reason": "non-English (Cyrillic title) \u2014 Russian market"
     },
     "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Thailand---Bangkok/Account-Executive---UPC_31157339-1": {
       "title": "Account Executive - UPC",
@@ -2265,7 +2265,7 @@
       "skip_reason": "low title fit vs full-stack Node/React profile"
     },
     "https://hcpo.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2694": {
-      "title": "Channel Sales Manager – MT",
+      "title": "Channel Sales Manager \u2013 MT",
       "company": "Blackmores Group",
       "url": "https://hcpo.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2694?utm_source=freehire.me",
       "first_seen": "2026-08-01",
@@ -2313,7 +2313,7 @@
       "skip_reason": "low title fit vs full-stack Node/React profile"
     },
     "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/THA-Bangkok-Metropolitan-City-Bangkok/Fulfillment-supply-chain-_JR103409": {
-      "title": "Fulfillment supply chain 供应链运营岗",
+      "title": "Fulfillment supply chain \u4f9b\u5e94\u94fe\u8fd0\u8425\u5c97",
       "company": "jd",
       "url": "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/THA-Bangkok-Metropolitan-City-Bangkok/Fulfillment-supply-chain-_JR103409?utm_source=freehire.me",
       "first_seen": "2026-08-01",
@@ -2416,7 +2416,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Remote locations: Australia, Bangladesh, Belgium, Canada, Chile, Colombia, Côte d'Ivoire, Dominican Republic, Ecuador, Ghana, Hong Kong, India, Indonesia, Italy, Jordan, Kenya, Malawi, Malaysia, Mauritius, Mexico, Morocco, New Zealand, Nigeria, Pakistan, Peru, Philippines, Puerto Rico, Qatar, Rwanda, Singapore, South Africa, Spain, Thailand, Uganda, Zambia",
+      "location": "Remote locations: Australia, Bangladesh, Belgium, Canada, Chile, Colombia, C\u00f4te d'Ivoire, Dominican Republic, Ecuador, Ghana, Hong Kong, India, Indonesia, Italy, Jordan, Kenya, Malawi, Malaysia, Mauritius, Mexico, Morocco, New Zealand, Nigeria, Pakistan, Peru, Philippines, Puerto Rico, Qatar, Rwanda, Singapore, South Africa, Spain, Thailand, Uganda, Zambia",
       "geo_bucket": "thailand",
       "skip_reason": "low title fit vs full-stack Node/React profile"
     },
@@ -2702,7 +2702,7 @@
       "rank_verdict": "Weak Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned \u2014 work permit still needed"
     },
     "https://et.linkedin.com/jobs/view/frontend-developer-at-walia-nexus-4445541547": {
       "title": "Frontend Developer",
@@ -2730,7 +2730,7 @@
       "rank_verdict": "Moderate Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Greater Istanbul listing — verify true remote worldwide"
+      "rank_location_note": "Greater Istanbul listing \u2014 verify true remote worldwide"
     },
     "https://ro.linkedin.com/jobs/view/frontend-developer-react-at-codekeeper-4446304238": {
       "title": "Frontend Developer (React)",
@@ -2762,7 +2762,7 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Berlin-listed; company spans 19 countries — confirm remote-from-Thailand"
+      "rank_location_note": "Berlin-listed; company spans 19 countries \u2014 confirm remote-from-Thailand"
     },
     "https://uk.linkedin.com/jobs/view/full-stack-developer-at-plutus-media-4442536677": {
       "title": "Full Stack Developer",
@@ -2808,7 +2808,7 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FAIL",
-      "rank_location_note": "Must be based within GMT ±3; Bangkok is GMT+7"
+      "rank_location_note": "Must be based within GMT \u00b13; Bangkok is GMT+7"
     },
     "https://djinni.co/jobs/840483-full-stack-engineer-crypto/": {
       "title": "Full Stack Engineer (Crypto)",
@@ -2834,7 +2834,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Ташкент",
+      "location": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442",
       "geo_bucket": "remote",
       "skip_reason": "likely non-English / CIS market remote"
     },
@@ -2856,22 +2856,22 @@
     },
     "https://justjoin.it/job-offer/do-ok-life-changing-software-services-fullstack-developer-wroclaw-java": {
       "title": "Fullstack Developer",
-      "company": "DO OK • Life-changing software services",
+      "company": "DO OK \u2022 Life-changing software services",
       "url": "https://justjoin.it/job-offer/do-ok-life-changing-software-services-fullstack-developer-wroclaw-java?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "ranked",
       "portal": "freehire-search",
-      "location": "Wrocław",
+      "location": "Wroc\u0142aw",
       "geo_bucket": "remote",
       "rank_score": 63,
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Polish justjoin B2B market (Wrocław); verify non-EU remote"
+      "rank_location_note": "Polish justjoin B2B market (Wroc\u0142aw); verify non-EU remote"
     },
     "https://himalayas.app/companies/archie-labs/jobs/fullstack-developer-react-node-js-remote": {
-      "title": "Fullstack Developer (React + Node.js) — Remote",
+      "title": "Fullstack Developer (React + Node.js) \u2014 Remote",
       "company": "Archie Labs",
       "url": "https://himalayas.app/companies/archie-labs/jobs/fullstack-developer-react-node-js-remote?utm_source=freehire.me",
       "first_seen": "2026-08-01",
@@ -2884,17 +2884,17 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FAIL",
-      "rank_location_note": "Remote (Latam) only — not open worldwide from Thailand"
+      "rank_location_note": "Remote (Latam) only \u2014 not open worldwide from Thailand"
     },
     "https://hh.ru/vacancy/134269279": {
       "title": "Fullstack Developer (React/NodeJS)",
-      "company": "Смартек",
+      "company": "\u0421\u043c\u0430\u0440\u0442\u0435\u043a",
       "url": "https://hh.ru/vacancy/134269279?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Тула",
+      "location": "\u0422\u0443\u043b\u0430",
       "geo_bucket": "remote",
       "skip_reason": "likely non-English / CIS market remote"
     },
@@ -2938,7 +2938,7 @@
       "fit": "high",
       "status": "ranked",
       "portal": "freehire-search",
-      "location": "Poznań",
+      "location": "Pozna\u0144",
       "geo_bucket": "remote",
       "rank_score": 72,
       "rank_verdict": "Good Fit",
@@ -2954,7 +2954,7 @@
       "fit": "high",
       "status": "ranked",
       "portal": "freehire-search",
-      "location": "Bogotá, Bogota, co",
+      "location": "Bogot\u00e1, Bogota, co",
       "geo_bucket": "remote",
       "rank_score": 55,
       "rank_verdict": "Moderate Fit",
@@ -2976,7 +2976,7 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Duplicate aggregator mirror of Agoda Greenhouse Lead Frontend — prefer Greenhouse URL"
+      "rank_location_note": "Duplicate aggregator mirror of Agoda Greenhouse Lead Frontend \u2014 prefer Greenhouse URL"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/6161339": {
       "title": "Lead Software Engineer - Front End (Bangkok based, Relocation provided)",
@@ -2996,13 +2996,13 @@
     },
     "https://hh.ru/vacancy/135793094": {
       "title": "Middle+ / Senior Node.js Backend Developer (NestJS, Kafka)",
-      "company": "Фабрика Решений",
+      "company": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0420\u0435\u0448\u0435\u043d\u0438\u0439",
       "url": "https://hh.ru/vacancy/135793094?utm_source=freehire.me",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Москва",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
       "geo_bucket": "remote",
       "skip_reason": "Russian-market remote (Cyrillic company)"
     },
@@ -3036,7 +3036,7 @@
       "rank_verdict": "Weak Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned \u2014 work permit still needed"
     },
     "https://job-boards.greenhouse.io/agoda/jobs/7915377": {
       "title": "Principal Software Engineer, Back End (Bangkok based, Relocation provided)",
@@ -3052,7 +3052,7 @@
       "rank_verdict": "Weak Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned \u2014 work permit still needed"
     },
     "https://pe.linkedin.com/jobs/view/react-engineer-remote-work-ref%23298905-at-bairesdev-4446501433": {
       "title": "React Engineer - Remote Work | REF#298905",
@@ -3096,7 +3096,7 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FAIL",
-      "rank_location_note": "US GovCIO — US work authorization expected"
+      "rank_location_note": "US GovCIO \u2014 US work authorization expected"
     },
     "https://th.linkedin.com/jobs/view/senior-back-end-engineer-at-cj-more-4445906653": {
       "title": "Senior Back End Engineer",
@@ -3122,7 +3122,7 @@
       "fit": "high",
       "status": "ranked",
       "portal": "freehire-search",
-      "location": "Białystok",
+      "location": "Bia\u0142ystok",
       "geo_bucket": "remote",
       "rank_score": 70,
       "rank_verdict": "Good Fit",
@@ -3144,7 +3144,7 @@
       "rank_verdict": "Good Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FAIL",
-      "rank_location_note": "US GovCIO remote — typically US work auth"
+      "rank_location_note": "US GovCIO remote \u2014 typically US work auth"
     },
     "https://th.linkedin.com/jobs/view/senior-frontend-engineer-earn-at-binance-4330742910": {
       "title": "Senior Frontend Engineer - Earn",
@@ -3187,10 +3187,10 @@
       "rank_verdict": "Strong Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "US-listed remote ($125–200k); verify worldwide eligibility before applying"
+      "rank_location_note": "US-listed remote ($125\u2013200k); verify worldwide eligibility before applying"
     },
     "https://www.whatjobs.com/pub_api__cpl__2905094098__7065?geoID=35": {
-      "title": "Senior Full-Stack Engineer — Remote (React/Node)",
+      "title": "Senior Full-Stack Engineer \u2014 Remote (React/Node)",
       "company": "Talkspace Corporate",
       "url": "https://www.whatjobs.com/pub_api__cpl__2905094098__7065?geoID=35&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-08-01",
@@ -3203,7 +3203,7 @@
       "rank_verdict": "Strong Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FAIL",
-      "rank_location_note": "Remote based in Eastern Time with NYC HQ — US-timezone/market gate"
+      "rank_location_note": "Remote based in Eastern Time with NYC HQ \u2014 US-timezone/market gate"
     },
     "https://jobstash.xyz/jobs/hNyTql/details": {
       "title": "Senior Fullstack Engineer",
@@ -3271,7 +3271,7 @@
     },
     "https://br.linkedin.com/jobs/view/software-engineer-ii-front-end-at-arco-educa%C3%A7%C3%A3o-4446159229": {
       "title": "Software Engineer II - Front End",
-      "company": "Arco Educação",
+      "company": "Arco Educa\u00e7\u00e3o",
       "url": "https://br.linkedin.com/jobs/view/software-engineer-ii-front-end-at-arco-educa%C3%A7%C3%A3o-4446159229",
       "first_seen": "2026-08-01",
       "fit": "high",
@@ -3327,7 +3327,7 @@
       "rank_verdict": "Moderate Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned — work permit still needed"
+      "rank_location_note": "Bangkok onsite/hybrid; sponsorship/relocation mentioned \u2014 work permit still needed"
     },
     "https://th.linkedin.com/jobs/view/t-t-consultant-innovation-cloud-development-center-full-stack-developer-th-at-deloitte-4406201195": {
       "title": "T&T Consultant - Innovation Cloud Development Center (Full-stack Developer) - TH",
@@ -3417,7 +3417,7 @@
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search",
-      "location": "Санкт-Петербург",
+      "location": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
       "geo_bucket": "remote",
       "skip_reason": "title mismatch vs full-stack Node/React profile"
     },
@@ -3431,7 +3431,7 @@
       "portal": "freehire-search",
       "location": "Amphoe Si Maha Phot, Prachin Buri, th",
       "geo_bucket": "thailand",
-      "skip_reason": "internship — below target seniority/comp"
+      "skip_reason": "internship \u2014 below target seniority/comp"
     },
     "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Bangkok/Project-Engineer--Food-and-Pharma_JR0047134": {
       "title": "Project Engineer, Food and Pharma",
@@ -3476,7 +3476,1293 @@
       "rank_verdict": "Moderate Fit",
       "rank_date": "2026-08-01",
       "rank_location": "FLAG",
-      "rank_location_note": "US-listed remote — verify worldwide eligibility & work auth"
+      "rank_location_note": "US-listed remote \u2014 verify worldwide eligibility & work auth"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2626790332__7065?geoID=12&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Staff Backend Engineer - FinTech Data Pipelines (Bangkok)",
+      "company": "Agoda",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2626790332__7065?geoID=12&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "California, United States",
+      "geo_bucket": "thailand",
+      "rank_score": 26,
+      "rank_verdict": "poor fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "Bangkok base with relocation mentioned"
+      ],
+      "rank_gaps": [
+        "Staff backend Java/data pipelines\u2014core weak areas",
+        "8+ years staff bar misaligned"
+      ]
+    },
+    "https://himalayas.app/companies/newfire-global-partners/jobs/senior-fullstack-go-react-engineer?utm_source=freehire.me": {
+      "title": "Senior Fullstack (Go+React) Engineer",
+      "company": "Newfire Global Partners",
+      "url": "https://himalayas.app/companies/newfire-global-partners/jobs/senior-fullstack-go-react-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Croatia",
+      "geo_bucket": "remote",
+      "rank_score": 39,
+      "rank_verdict": "weak fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "React part of stack"
+      ],
+      "rank_gaps": [
+        "Golang-primary backend",
+        "Croatia-only remote eligibility"
+      ]
+    },
+    "https://jobs.ashbyhq.com/terac/f15387f4-d6c9-4caa-ad36-26b157666fb7?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineers (React): AI Evaluation Environments",
+      "company": "terac",
+      "url": "https://jobs.ashbyhq.com/terac/f15387f4-d6c9-4caa-ad36-26b157666fb7?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "United States",
+      "geo_bucket": "remote",
+      "rank_score": 75,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "Deep React expertise",
+        "AI agent evaluation environments",
+        "Remote senior IC"
+      ],
+      "rank_gaps": [
+        "US-focused listing without worldwide eligibility",
+        "Contract-style $75/hr"
+      ]
+    },
+    "https://justjoin.it/job-offer/comm1t-senior-fullstack-engineer-fastapi-react--warszawa-python?utm_source=freehire.me": {
+      "title": "Senior Fullstack Engineer (FastAPI, React)",
+      "company": "comm1t",
+      "url": "https://justjoin.it/job-offer/comm1t-senior-fullstack-engineer-fastapi-react--warszawa-python?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Warszawa",
+      "geo_bucket": "remote",
+      "rank_score": 68,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "Claude Code daily tooling",
+        "React/Next/TS frontend"
+      ],
+      "rank_gaps": [
+        "Python/FastAPI backend",
+        "Poland-only remote"
+      ]
+    },
+    "https://reputation.wd1.myworkdayjobs.com/External/job/Remote-US/Senior-Full-Stack-Software-Engineer--React-Node-_JR101712?utm_source=freehire.me": {
+      "title": "Senior Full Stack Software Engineer (React/Node)",
+      "company": "reputation",
+      "url": "https://reputation.wd1.myworkdayjobs.com/External/job/Remote-US/Senior-Full-Stack-Software-Engineer--React-Node-_JR101712?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Remote (US)",
+      "geo_bucket": "remote",
+      "rank_score": 81,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "JS/React/Node core stack",
+        "Enterprise SaaS remote senior IC"
+      ],
+      "rank_gaps": [
+        "Remote-US only",
+        "8+ years and K8s/GCP depth"
+      ]
+    },
+    "https://himalayas.app/companies/guarana-technologies/jobs/full-stack-software-engineer-node-js?utm_source=freehire.me": {
+      "title": "Full-Stack Software Engineer - Node.js",
+      "company": "Guarana Technologies",
+      "url": "https://himalayas.app/companies/guarana-technologies/jobs/full-stack-software-engineer-node-js?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Australia, Canada, Ireland, New Zealand, South Africa, United Kingdom, United States",
+      "geo_bucket": "remote",
+      "rank_score": 85,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "Expert React/Node REST match"
+      ],
+      "rank_gaps": [
+        "Eligible countries exclude Thailand"
+      ]
+    },
+    "https://djinni.co/jobs/839803-full-stack-net-engineer-react/?utm_source=freehire.me": {
+      "title": "Full Stack .NET Engineer (React)",
+      "company": "Boovatech",
+      "url": "https://djinni.co/jobs/839803-full-stack-net-engineer-react/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "rank_score": 46,
+      "rank_verdict": "moderate fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "PASS",
+      "rank_strengths": [
+        "React/TS SPA"
+      ],
+      "rank_gaps": [
+        ".NET/ASP.NET Core required"
+      ]
+    },
+    "https://www.whatjobs.com/pub_api__cpl__2933615311__7065?geoID=4&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Sr. Systems Engineer (Angular-NodeJS FullStack Developer)",
+      "company": "SAIC",
+      "url": "https://www.whatjobs.com/pub_api__cpl__2933615311__7065?geoID=4&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Texas, United States",
+      "geo_bucket": "remote",
+      "rank_score": 37,
+      "rank_verdict": "weak fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "Node.js REST partial"
+      ],
+      "rank_gaps": [
+        "US Citizenship + Public Trust clearance"
+      ]
+    },
+    "https://sequoia-connect.com/job-description-details/?id=B2.964&st=M%C3%A9xico&t=Full+Stack+Engineer+%28Node.js+++React%29&utm_source=freehire.me": {
+      "title": "Full Stack Engineer (Node.js + React)",
+      "company": "Sequoia Connect",
+      "url": "https://sequoia-connect.com/job-description-details/?id=B2.964&st=M%C3%A9xico&t=Full+Stack+Engineer+%28Node.js+++React%29&utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Ciudad de M\u00e9xico, CDMX",
+      "geo_bucket": "remote",
+      "rank_score": 61,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "Node/TS/React/Next stack"
+      ],
+      "rank_gaps": [
+        "Advanced Spanish mandatory",
+        "Mexico LatAm only"
+      ]
+    },
+    "https://kubikware.freshteam.com/jobs/UVIGv0czdJJW/full-stack-node-js-and-react-engineer-remote?utm_source=freehire.me": {
+      "title": "Full-Stack Node.js and React Engineer (Remote)",
+      "company": "kubikware",
+      "url": "https://kubikware.freshteam.com/jobs/UVIGv0czdJJW/full-stack-node-js-and-react-engineer-remote?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Florida, Aventura, United States of America",
+      "geo_bucket": "remote",
+      "rank_score": 86,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "Exact Node/React/Next/TS/GraphQL match"
+      ],
+      "rank_gaps": [
+        "LATAM-only"
+      ]
+    },
+    "https://sakuragames.huntflow.io/vacancy/fullstack-developer-web?utm_source=freehire.me": {
+      "title": "Fullstack Developer (Node.js/TypeScript and React/Next.js)",
+      "company": "Sakura Games",
+      "url": "https://sakuragames.huntflow.io/vacancy/fullstack-developer-web?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Remote",
+      "geo_bucket": "remote",
+      "rank_score": 75,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "PASS",
+      "rank_strengths": [
+        "React/Next/TS + Node preferred",
+        "End-to-end builder remote contract"
+      ],
+      "rank_gaps": [
+        "3\u20136 month contract",
+        "Azure/Fluent UI niche"
+      ]
+    },
+    "https://remotestar-team.freshteam.com/jobs/Nd04GGZB2Q0p/full-stack-developer-java-react-next-js-poland?utm_source=freehire.me": {
+      "title": "Full-Stack Developer (Java + React / Next.js)- Poland ",
+      "company": "remotestar-team",
+      "url": "https://remotestar-team.freshteam.com/jobs/Nd04GGZB2Q0p/full-stack-developer-java-react-next-js-poland?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Cambourne, United Kingdom of Great Britain and Northern Ireland",
+      "geo_bucket": "remote",
+      "rank_score": 56,
+      "rank_verdict": "moderate fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "React/Next frontend"
+      ],
+      "rank_gaps": [
+        "Poland-only",
+        "Java/Spring mandatory"
+      ]
+    },
+    "https://www.careers-page.com/nearshore-business-solutions/job/4R68W8VV?utm_source=freehire.me": {
+      "title": "Fullstack JavaScript Engineer",
+      "company": "Nearshore Business Solutions",
+      "url": "https://www.careers-page.com/nearshore-business-solutions/job/4R68W8VV?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "ar, br, cl, co, cr, gt, mx, pa, pe, uy",
+      "geo_bucket": "remote",
+      "rank_score": 72,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "React/Node/TS/GraphQL + Claude Code"
+      ],
+      "rank_gaps": [
+        "LatAm only"
+      ]
+    },
+    "https://www.careers-page.com/nearshore-business-solutions/job/8X746733?utm_source=freehire.me": {
+      "title": "Full Stack Software Engineer (TypeScript)",
+      "company": "Nearshore Business Solutions",
+      "url": "https://www.careers-page.com/nearshore-business-solutions/job/8X746733?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "ar, br, cl, co, mx",
+      "geo_bucket": "remote",
+      "rank_score": 70,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "TS fullstack + Claude Code"
+      ],
+      "rank_gaps": [
+        "LatAm only"
+      ]
+    },
+    "https://himalayas.app/companies/avomind/jobs/lead-full-stack-engineer?utm_source=freehire.me": {
+      "title": "Lead Full Stack Engineer",
+      "company": "Avomind",
+      "url": "https://himalayas.app/companies/avomind/jobs/lead-full-stack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Vietnam",
+      "geo_bucket": "remote",
+      "rank_score": 60,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "Node/React fintech"
+      ],
+      "rank_gaps": [
+        "Vietnam-only remote"
+      ]
+    },
+    "https://jobs.ashbyhq.com/clera/af56a19d-bf27-49a3-be82-0a8f2f4b98af?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Full Stack",
+      "company": "clera",
+      "url": "https://jobs.ashbyhq.com/clera/af56a19d-bf27-49a3-be82-0a8f2f4b98af?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "remote",
+      "geo_bucket": "remote",
+      "rank_score": 51,
+      "rank_verdict": "moderate fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "React/Next AI healthtech"
+      ],
+      "rank_gaps": [
+        "Python/Django backend",
+        "NYC hybrid + no US visa sponsorship"
+      ]
+    },
+    "https://www.arbeitnow.com/jobs/companies/stetig/founding-engineer-senior-full-stack-ai-native-freight-forwarder-frankfurt-am-main-208525?utm_source=freehire.me": {
+      "title": "Founding Engineer / Senior Full Stack (AI-native Freight Forwarder)",
+      "company": "Stetig",
+      "url": "https://www.arbeitnow.com/jobs/companies/stetig/founding-engineer-senior-full-stack-ai-native-freight-forwarder-frankfurt-am-main-208525?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Frankfurt am Main",
+      "geo_bucket": "remote",
+      "rank_score": 78,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "Claude Code AI-native TypeScript fullstack",
+        "Founding-engineer autonomy"
+      ],
+      "rank_gaps": [
+        "Germany-listed; worldwide remote unclear",
+        "Data pipelines/Python stretch"
+      ]
+    },
+    "https://www.careers-page.com/nearshore-business-solutions/job/5WR4YX5R?utm_source=freehire.me": {
+      "title": "Senior Fullstack Developer",
+      "company": "Nearshore Business Solutions",
+      "url": "https://www.careers-page.com/nearshore-business-solutions/job/5WR4YX5R?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "ar, br, cl, co, cr, do, ec, gt, hn, mx, ni, pa, pe, py, sv, uy, ve",
+      "geo_bucket": "remote",
+      "rank_score": 63,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "Node/TS/React/Next senior"
+      ],
+      "rank_gaps": [
+        "LatAm only",
+        "Vue primary"
+      ]
+    },
+    "https://jobs.ashbyhq.com/clera/f1b424c7-e3d1-4b4d-aef1-7e6e60821ade?utm_source=freehire.me": {
+      "title": "Staff Fullstack Engineer",
+      "company": "clera",
+      "url": "https://jobs.ashbyhq.com/clera/f1b424c7-e3d1-4b4d-aef1-7e6e60821ade?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "remote",
+      "geo_bucket": "remote",
+      "rank_score": 69,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "TS/JS/React/Node fullstack",
+        "Visa sponsorship offered"
+      ],
+      "rank_gaps": [
+        "Eligible regions US/Canada/LatAm exclude Bangkok",
+        "Staff 8+ years bar",
+        "Remote limited to US/Canada/LatAm \u2014 Bangkok excluded"
+      ]
+    },
+    "https://brightvisiontechnologies.applytojob.com/apply/cZnlZCpKFc/Senior-NET-Full-Stack-Developer?utm_source=freehire.me": {
+      "title": "Senior .NET Full Stack Developer",
+      "company": "Bright Vision Technologies",
+      "url": "https://brightvisiontechnologies.applytojob.com/apply/cZnlZCpKFc/Senior-NET-Full-Stack-Developer?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Lexington, MA",
+      "geo_bucket": "remote",
+      "rank_score": 35,
+      "rank_verdict": "weak fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "React acceptable frontend"
+      ],
+      "rank_gaps": [
+        "C#/.NET primary",
+        "US-only no sponsorship"
+      ]
+    },
+    "https://jobs.ashbyhq.com/protege/0f6ae8c3-b8c1-455e-b4b9-570d05de1a98?utm_source=freehire.me": {
+      "title": "Senior Full Stack Software Engineer",
+      "company": "protege",
+      "url": "https://jobs.ashbyhq.com/protege/0f6ae8c3-b8c1-455e-b4b9-570d05de1a98?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Remote",
+      "geo_bucket": "remote",
+      "rank_score": 90,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "TypeScript + Next.js + React product engineering",
+        "End-to-end UI through API ownership",
+        "Remote with no geo/citizenship gate stated"
+      ],
+      "rank_gaps": [
+        "US-listed Ashby posting with no worldwide remote eligibility stated",
+        "Vector search / multimodal catalog adjacent",
+        "PHI-aware compliance surface"
+      ]
+    },
+    "https://career.habr.com/vacancies/1000167676?utm_source=freehire.me": {
+      "title": "Senior Fullstack-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Laravel + Nuxt)",
+      "company": "EASY FROM CHINA",
+      "url": "https://career.habr.com/vacancies/1000167676?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "rank_score": 37,
+      "rank_verdict": "weak fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "Remote fullstack scope"
+      ],
+      "rank_gaps": [
+        "PHP/Laravel + Vue/Nuxt required",
+        "Russian-language posting"
+      ]
+    },
+    "https://job-boards.greenhouse.io/neweratech/jobs/8661000002?utm_source=freehire.me": {
+      "title": "Full Stack Software Engineer",
+      "company": "New Era Technology",
+      "url": "https://job-boards.greenhouse.io/neweratech/jobs/8661000002?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Remote",
+      "geo_bucket": "remote",
+      "rank_score": 40,
+      "rank_verdict": "weak fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "PASS",
+      "rank_strengths": [
+        "Remote no Thai gate"
+      ],
+      "rank_gaps": [
+        "Java/Spring talent pool not active role"
+      ]
+    },
+    "https://djinni.co/jobs/840396-full-stack-engineer/?utm_source=freehire.me": {
+      "title": "Full-Stack Engineer",
+      "company": "Bliscore",
+      "url": "https://djinni.co/jobs/840396-full-stack-engineer/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "rank_score": 85,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "TS/Next/React/Node AI SaaS",
+        "Independent IC with CTO"
+      ],
+      "rank_gaps": [
+        "5\u20137 years bar",
+        "CET hours overlap from Bangkok"
+      ]
+    },
+    "https://job-boards.greenhouse.io/roo/jobs/5373552008?utm_source=freehire.me": {
+      "title": "Full Stack Engineer",
+      "company": "Roo",
+      "url": "https://job-boards.greenhouse.io/roo/jobs/5373552008?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "Remote",
+      "geo_bucket": "remote",
+      "rank_score": 73,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "TS/JS React Node/Express SQL",
+        "Remote-first end-to-end ownership"
+      ],
+      "rank_gaps": [
+        "React Native expected",
+        "US eligibility unclear"
+      ]
+    },
+    "https://himalayas.app/companies/one-call/jobs/full-stack-engineer?utm_source=freehire.me": {
+      "title": "Full Stack Engineer",
+      "company": "One Call",
+      "url": "https://himalayas.app/companies/one-call/jobs/full-stack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "rank_score": 33,
+      "rank_verdict": "weak fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "PASS",
+      "rank_strengths": [
+        "Some React/JS overlap"
+      ],
+      "rank_gaps": [
+        "C#/.NET primary stack mismatch"
+      ]
+    },
+    "https://himalayas.app/companies/avomind/jobs/full-stack-engineer-ai-systems?utm_source=freehire.me": {
+      "title": "Full Stack Engineer (AI Systems)",
+      "company": "Avomind",
+      "url": "https://himalayas.app/companies/avomind/jobs/full-stack-engineer-ai-systems?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "Singapore",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://djinni.co/jobs/828402-full-stack-back-end-oriented-python-agentic-a/?utm_source=freehire.me": {
+      "title": "Full-Stack / Back-End Oriented (Python + Agentic AI)",
+      "company": "ALLSTARSIT",
+      "url": "https://djinni.co/jobs/828402-full-stack-back-end-oriented-python-agentic-a/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://app.tecla.io/job?id=3356&utm_source=freehire.me": {
+      "title": "Full-Stack Software Engineer",
+      "company": "SmartXadvisory",
+      "url": "https://app.tecla.io/job?id=3356&utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://djinni.co/jobs/839703-full-stack-developer-ai-training/?utm_source=freehire.me": {
+      "title": "Full Stack Developer (AI Training)",
+      "company": "UITOP",
+      "url": "https://djinni.co/jobs/839703-full-stack-developer-ai-training/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://djinni.co/jobs/833094-full-stack-web-developer/?utm_source=freehire.me": {
+      "title": "Full-Stack Web Developer",
+      "company": "Adopy",
+      "url": "https://djinni.co/jobs/833094-full-stack-web-developer/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://djinni.co/jobs/693927-full-stack-wordpress-developer/?utm_source=freehire.me": {
+      "title": "Full-Stack Wordpress Developer",
+      "company": "BBE Marketing",
+      "url": "https://djinni.co/jobs/693927-full-stack-wordpress-developer/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://job-boards.greenhouse.io/turncare/jobs/4273228009?utm_source=freehire.me": {
+      "title": "Full Stack Developer ",
+      "company": "TurnCare\u2122",
+      "url": "https://job-boards.greenhouse.io/turncare/jobs/4273228009?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "Remote",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://getambush-talent.freshteam.com/jobs/WQOCe3wXb7A-/full-stack-engineer?utm_source=freehire.me": {
+      "title": "Full-stack Engineer",
+      "company": "getambush-talent",
+      "url": "https://getambush-talent.freshteam.com/jobs/WQOCe3wXb7A-/full-stack-engineer?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "State of Rio Grande do Sul, Porto Alegre, Brazil",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://himalayas.app/companies/blackstone-eit/jobs/full-stack-net-1244354839?utm_source=freehire.me": {
+      "title": "Full Stack (.Net)",
+      "company": "BlackStone eIT",
+      "url": "https://himalayas.app/companies/blackstone-eit/jobs/full-stack-net-1244354839?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "Egypt",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://himalayas.app/companies/launchdarkly/jobs/full-stack-engineer-observability-137161147?utm_source=freehire.me": {
+      "title": "Full Stack Engineer, Observability",
+      "company": "LaunchDarkly",
+      "url": "https://himalayas.app/companies/launchdarkly/jobs/full-stack-engineer-observability-137161147?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "United States",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://career.habr.com/vacancies/1000167560?utm_source=freehire.me": {
+      "title": "Frontend (Fullstack) Developer (AI-\u0430\u0433\u0435\u043d\u0442\u044b)",
+      "company": "Bell Integrator",
+      "url": "https://career.habr.com/vacancies/1000167560?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://jobs.ashbyhq.com/clera/aa8cf80b-cf4a-4082-a6cc-02948fcbfc62?utm_source=freehire.me": {
+      "title": "Founding Full Stack Engineer",
+      "company": "clera",
+      "url": "https://jobs.ashbyhq.com/clera/aa8cf80b-cf4a-4082-a6cc-02948fcbfc62?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "remote",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://djinni.co/jobs/832648-senior-full-stack-developer-vanilla-javascrip/?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Developer (Vanilla JavaScript / Vanilla PHP)",
+      "company": "Finsight",
+      "url": "https://djinni.co/jobs/832648-senior-full-stack-developer-vanilla-javascrip/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "UA",
+      "geo_bucket": "remote",
+      "skip_reason": "not in ranked fetch batch this run"
+    },
+    "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-clera-4447777531": {
+      "title": "Fullstack Software Engineer",
+      "company": "Clera",
+      "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-clera-4447777531",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "New York, NY",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://pk.linkedin.com/jobs/view/javascript-frontend-developer-remote-at-hired-4447776764": {
+      "title": "JavaScript Frontend Developer (Remote)",
+      "company": "Hired",
+      "url": "https://pk.linkedin.com/jobs/view/javascript-frontend-developer-remote-at-hired-4447776764",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Pakistan",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://djinni.co/jobs/840065-full-stack-team-lead-net-and-angular/?utm_source=freehire.me": {
+      "title": "Full Stack Team Lead (.Net and Angular)",
+      "company": "ITExpert",
+      "url": "https://djinni.co/jobs/840065-full-stack-team-lead-net-and-angular/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://djinni.co/jobs/592719-full-stack-python-developer/?utm_source=freehire.me": {
+      "title": "Full Stack Python Developer",
+      "company": "MaybeWorks",
+      "url": "https://djinni.co/jobs/592719-full-stack-python-developer/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://djinni.co/jobs/839995-full-stack-java-angular-js-developer/?utm_source=freehire.me": {
+      "title": "Full Stack Java + Angular/JS Developer",
+      "company": "Piligrim",
+      "url": "https://djinni.co/jobs/839995-full-stack-java-angular-js-developer/?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-adoption-at-cohere-4429663086": {
+      "title": "Software Engineer, Adoption",
+      "company": "Cohere",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-adoption-at-cohere-4429663086",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "San Francisco, CA",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-globixs-4447785460": {
+      "title": "Junior Full-Stack Developer",
+      "company": "Globixs",
+      "url": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-globixs-4447785460",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Multnomah County, OR",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-tpi-global-solutions-4443612431": {
+      "title": "Senior Software Engineer (Full Stack)",
+      "company": "TPI Global Solutions",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-tpi-global-solutions-4443612431",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "India",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://ph.linkedin.com/jobs/view/full-stack-engineer-at-joyride-superapp-4447489625": {
+      "title": "Full Stack Engineer",
+      "company": "JoyRide Superapp",
+      "url": "https://ph.linkedin.com/jobs/view/full-stack-engineer-at-joyride-superapp-4447489625",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Philippines",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://br.linkedin.com/jobs/view/desenvolvedor-a-fullstack-j%C3%BAnior-at-south-system-4443557916": {
+      "title": "Desenvolvedor(a) Fullstack J\u00fanior",
+      "company": "SOUTH SYSTEM",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-fullstack-j%C3%BAnior-at-south-system-4443557916",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Brazil",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-mobile-at-jobgether-4443255176": {
+      "title": "Desenvolvedor Fullstack Mobile",
+      "company": "Jobgether",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-mobile-at-jobgether-4443255176",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Brazil",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://www.linkedin.com/jobs/view/junior-web-developer-at-richmond-public-schools-education-foundation-inc-4447579520": {
+      "title": "Junior Web Developer",
+      "company": "RICHMOND PUBLIC SCHOOLS EDUCATION FOUNDATION INC",
+      "url": "https://www.linkedin.com/jobs/view/junior-web-developer-at-richmond-public-schools-education-foundation-inc-4447579520",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "United States",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://pk.linkedin.com/jobs/view/frontend-web-developer-html-css-remote-at-jobs-ai-4447741921": {
+      "title": "Frontend Web Developer - HTML,CSS (Remote)",
+      "company": "Jobs Ai",
+      "url": "https://pk.linkedin.com/jobs/view/frontend-web-developer-html-css-remote-at-jobs-ai-4447741921",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Pakistan",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://ca.linkedin.com/jobs/view/frontend-web-developer-html-css-remote-at-hired-4447796759": {
+      "title": "Frontend Web Developer - HTML,CSS (Remote)",
+      "company": "Hired",
+      "url": "https://ca.linkedin.com/jobs/view/frontend-web-developer-html-css-remote-at-hired-4447796759",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Canada",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://www.linkedin.com/jobs/view/junior-web-developer-at-matricstek-inc-4446786081": {
+      "title": "Junior Web Developer",
+      "company": "Matricstek Inc.",
+      "url": "https://www.linkedin.com/jobs/view/junior-web-developer-at-matricstek-inc-4446786081",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "New York City Metropolitan Area",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://au.linkedin.com/jobs/view/staff-front-end-engineer-telemetry-at-canva-4444855667": {
+      "title": "Staff Front-End Engineer - Telemetry",
+      "company": "Canva",
+      "url": "https://au.linkedin.com/jobs/view/staff-front-end-engineer-telemetry-at-canva-4444855667",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Adelaide, South Australia, Australia",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://br.linkedin.com/jobs/view/staff-frontend-software-engineer-at-tractian-4443434628": {
+      "title": "Staff Frontend Software Engineer",
+      "company": "TRACTIAN",
+      "url": "https://br.linkedin.com/jobs/view/staff-frontend-software-engineer-at-tractian-4443434628",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://kw.linkedin.com/jobs/view/freelance-full-stack-web-app-developer-at-mindrift-4446582105": {
+      "title": "Freelance Full-Stack Web App Developer",
+      "company": "Mindrift",
+      "url": "https://kw.linkedin.com/jobs/view/freelance-full-stack-web-app-developer-at-mindrift-4446582105",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Kuwait",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4445167574": {
+      "title": "Desenvolvedor React Junior - Trabalho Remoto",
+      "company": "BairesDev",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4445167574",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Brazil",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://de.linkedin.com/jobs/view/associate-frontend-developer-at-alpine-business-consulting-4447602471": {
+      "title": "Associate Frontend Developer",
+      "company": "Alpine Business Consulting",
+      "url": "https://de.linkedin.com/jobs/view/associate-frontend-developer-at-alpine-business-consulting-4447602471",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Berlin, Berlin, Germany",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://th.linkedin.com/jobs/view/smart-tv-developer-at-mono-next-public-company-limited-4442082851": {
+      "title": "Smart TV Developer",
+      "company": "Mono Next Public Company Limited",
+      "url": "https://th.linkedin.com/jobs/view/smart-tv-developer-at-mono-next-public-company-limited-4442082851",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Nonthaburi, Nonthaburi, Thailand",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://www.linkedin.com/jobs/view/4446965732": {
+      "title": "Quality Assurance Tester",
+      "company": "-",
+      "url": "https://www.linkedin.com/jobs/view/4446965732",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Bang Khun Thian district, Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://th.linkedin.com/jobs/view/admissions-counsellor-us-colleges-at-crimson-education-4416114743": {
+      "title": "Admissions Counsellor (US Colleges)",
+      "company": "Crimson Education",
+      "url": "https://th.linkedin.com/jobs/view/admissions-counsellor-us-colleges-at-crimson-education-4416114743",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Bangkok, Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://th.linkedin.com/jobs/view/technical-trainer-at-niit-4432201477": {
+      "title": "Technical Trainer",
+      "company": "NIIT",
+      "url": "https://th.linkedin.com/jobs/view/technical-trainer-at-niit-4432201477",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://th.linkedin.com/jobs/view/senior-software-qa-cdc-at-makro-pro-4396068274": {
+      "title": "Senior Software QA (CDC)",
+      "company": "Makro PRO",
+      "url": "https://th.linkedin.com/jobs/view/senior-software-qa-cdc-at-makro-pro-4396068274",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Suanluang, Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://th.linkedin.com/jobs/view/regional-sales-manager-at-netskope-4386096390": {
+      "title": "Regional Sales Manager",
+      "company": "Netskope",
+      "url": "https://th.linkedin.com/jobs/view/regional-sales-manager-at-netskope-4386096390",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Bangkok, Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://th.linkedin.com/jobs/view/global-content-engagement-manager-at-new-energy-nexus-4444939703": {
+      "title": "Global Content & Engagement Manager",
+      "company": "New Energy Nexus",
+      "url": "https://th.linkedin.com/jobs/view/global-content-engagement-manager-at-new-energy-nexus-4444939703",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "location": "Bangkok, Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://jobs.lever.co/mactores/598c935b-f408-4491-93b6-94c95396bd5c?utm_source=freehire.me": {
+      "title": "Full Stack Product Engineer Intern, Agent Native",
+      "company": "mactores",
+      "url": "https://jobs.lever.co/mactores/598c935b-f408-4491-93b6-94c95396bd5c?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "Mumbai, MH",
+      "geo_bucket": "remote",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://jobs.smartrecruiters.com/Grab/744000140655350-senior-associate-key-account-management-fmcg-?utm_source=freehire.me": {
+      "title": "Senior Associate, Key Account Management (FMCG)",
+      "company": "Grab",
+      "url": "https://jobs.smartrecruiters.com/Grab/744000140655350-senior-associate-key-account-management-fmcg-?utm_source=freehire.me",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search",
+      "location": "Bangkok, th",
+      "geo_bucket": "thailand",
+      "skip_reason": "outside priority stack/geo this run"
+    },
+    "https://www.linkedin.com/jobs/view/4447783732": {
+      "title": "ReactJS - Frontend Developer",
+      "company": "Avensys Consulting",
+      "url": "https://www.linkedin.com/jobs/view/4447783732",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "rank_score": 72,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "Deep React/TypeScript/Next.js stack match with SPA/SSR and performance focus",
+        "Bangkok hybrid role with visa, relocation, and expat support for foreign nationals",
+        "English communication required; no Thai language requirement stated"
+      ],
+      "rank_gaps": [
+        "7\u20138+ years staff-level experience with team leadership and mentorship bar",
+        "Heavy emphasis on architecture leadership and stakeholder influence vs pure builder IC",
+        "Vue listed alongside React; seniority may exceed candidate's current tenure"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4446715898": {
+      "title": "Full Stack Developer",
+      "company": "Tata Consultancy Services",
+      "url": "https://www.linkedin.com/jobs/view/4446715898",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "rank_score": 30,
+      "rank_verdict": "weak fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "Bangkok-based posting; REST/GraphQL familiarity overlaps with profile"
+      ],
+      "rank_gaps": [
+        "Primary stack is Java/Spring Boot/Kafka backend\u2014not candidate's JS/TS strength",
+        "Frontend implementation explicitly not required; Angular not React"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4401409527": {
+      "title": "Full Stack Engineer (AI)",
+      "company": "Binance",
+      "url": "https://www.linkedin.com/jobs/view/4401409527",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "Bangkok, Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "rank_score": 81,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "React and Node.js fullstack with end-to-end product ownership",
+        "Explicitly integrates Claude Code and AI-augmented autonomous development workflow",
+        "1\u20135 year window and builder/seed IC culture align with career goals"
+      ],
+      "rank_gaps": [
+        "Requires solid Java or Golang backend foundation in addition to Node.js",
+        "Bangkok-based; visa/sponsorship terms not detailed in posting text"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4397527778": {
+      "title": "Senior Software Engineer (App Integration)",
+      "company": "Makro PRO",
+      "url": "https://www.linkedin.com/jobs/view/4397527778",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "Suanluang, Bangkok City, Thailand",
+      "geo_bucket": "thailand",
+      "rank_score": 74,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "TypeScript, Node.js, React, PostgreSQL, AWS event-driven stack",
+        "Greenfield platform with AI pair programming culture",
+        "Bangkok onsite marketplace domain"
+      ],
+      "rank_gaps": [
+        "6+ years with tech-lead/architect expectations",
+        "Deep DevOps/EKS/Kafka and .NET legacy oversight"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4445738195": {
+      "title": "Senior Software Engineer \u2013 TypeScript | Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://www.linkedin.com/jobs/view/4445738195",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "United Kingdom",
+      "geo_bucket": "remote",
+      "rank_score": 80,
+      "rank_verdict": "strong fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "TS/Node/React/Express exact stack",
+        "Senior IC with mentorship"
+      ],
+      "rank_gaps": [
+        "Part-time 10\u201340 hrs/week contract",
+        "UK-listed remote geo unclear"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4427780153": {
+      "title": "Senior Software Engineer, Full-stack",
+      "company": "Pairwise",
+      "url": "https://www.linkedin.com/jobs/view/4427780153",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "London, England, United Kingdom",
+      "geo_bucket": "remote",
+      "rank_score": 57,
+      "rank_verdict": "moderate fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "High-ownership AI builder culture"
+      ],
+      "rank_gaps": [
+        "London onsite relocation",
+        "Python/Django primary"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4283957653": {
+      "title": "Senior Full Stack Software Engineer",
+      "company": "ReversingLabs",
+      "url": "https://www.linkedin.com/jobs/view/4283957653",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "Ireland",
+      "geo_bucket": "remote",
+      "rank_score": 61,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "TypeScript and React core"
+      ],
+      "rank_gaps": [
+        "Ireland-based relocation",
+        "7+ years"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4419464697": {
+      "title": "Senior Full Stack Software Engineer",
+      "company": "StackAdapt",
+      "url": "https://www.linkedin.com/jobs/view/4419464697",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "Toronto, Ontario, Canada",
+      "geo_bucket": "remote",
+      "rank_score": 67,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FAIL",
+      "rank_strengths": [
+        "React/TS/GraphQL"
+      ],
+      "rank_gaps": [
+        "Canada-only remote",
+        "Go/Rails backend"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/4442733634": {
+      "title": "Fullstack Software Engineer, Notifications Lifecycle",
+      "company": "Reddit, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4442733634",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "location": "United States",
+      "geo_bucket": "remote",
+      "rank_score": 71,
+      "rank_verdict": "good fit",
+      "rank_date": "2026-08-02",
+      "rank_location": "FLAG",
+      "rank_strengths": [
+        "Fullstack TS product at scale"
+      ],
+      "rank_gaps": [
+        "Go/Python backend emphasis",
+        "Reddit remote countries may exclude TH"
+      ]
     }
   }
 }
